@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently doing my Masters in Data Science at Illinois Institute of Technology**
 
-- 🌱 Interested in **Artificial intelligence and cybersecurity**
+- 🌱 Interested in **Artificial intelligence, IoT and cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshithDR](https://github.com/HarshithDR)
 
