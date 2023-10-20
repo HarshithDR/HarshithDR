@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshith D R</h1>
+<h1 align="center">Hi 👋, I'm Harshith Deshalli Ravi</h1>
 <h3 align="center">I am a dedicated data science student with a strong passion for exploring the world of data and technology. Currently pursuing my studies in data science, I am committed to harnessing the power of data to make informed decisions and solve real-world problems.</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently doing my Masters in Data Science at Illinois Institute of Technology**
 
-- 🌱 Interested in **Artificial intelligence and cybersecurity**
+- 🌱 Interested in **Artificial intelligence, IoT and cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshithDR](https://github.com/HarshithDR)
 
