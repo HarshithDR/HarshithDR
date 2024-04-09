@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshithdr5" target="blank"><img src="https://img.shields.io/twitter/follow/harshithdr5?logo=twitter&style=for-the-badge" alt="harshithdr5" /></a> </p>
 
+- Learn more about me [https://harshithdr.github.io/](https://harshithdr.github.io/)
 - 🌱 I’m currently doing my Masters in Data Science at Illinois Institute of Technology**
 
 - 🌱 Interested in **Artificial intelligence, IoT and cybersecurity**
