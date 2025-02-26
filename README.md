@@ -31,4 +31,4 @@ h3 align="left">Languages and Tools:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshithdr&" alt="harshithdr" /></p>
 
-<img src="github-user-contribution (2).svg" width="300" />
+<img src="github-user-contribution (2).svg" width="1000" />
