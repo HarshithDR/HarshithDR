@@ -31,4 +31,4 @@ h3 align="left">Languages and Tools:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshithdr&" alt="harshithdr" /></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="github-user-contribution (2).svg" width="300" />
