@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithdr&label=Profile%20views&color=0e75b6&style=flat" alt="harshithdr" /> </p>
 
-- Learn more about me [https://harshithdr.github.io/](https://harshithdr.github.io/)
-  
+- Learn more about me [https://harshithdr.github.io/](https://harshithdeshalliravi.us)
 - 🌱 I’m currently doing my Masters in Data Science at Illinois Institute of Technology**
 
 - 🌱 Interested in **Artificial intelligence, Machine learning and Data science**
