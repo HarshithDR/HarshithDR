@@ -1,33 +1,100 @@
 <h1 align="center">Hi 👋, I'm Harshith Deshalli Ravi</h1>
-<h3 align="center">Data Science enthusiast specializing in LLM fine-tuning, RAG systems, and AI applications. Passionate about developing innovative solutions that address practical challenges through machine learning and deep learning expertise. Actively follow AI research daily and create content on LinkedIn sharing the latest AI news and developments to stay at the cutting edge of the field.</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
+<h3 align="center">
+Robotics AI Researcher | Sim-to-Real Systems | Embodied Intelligence
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithdr&label=Profile%20views&color=0e75b6&style=flat" alt="harshithdr" /> </p>
-
-- Learn more about me [https://harshithdeshalliravi.us](https://harshithdeshalliravi.us)
-- 🌱 I’m currently doing my Masters in Data Science at Illinois Institute of Technology**
-
-- 🌱 Interested in **Artificial intelligence, Machine learning and Data science**
-
-- 👨‍💻 All of my projects are available at [https://github.com/HarshithDR](https://github.com/HarshithDR)
-
-- 💬 Ask me about **LLMs and Data**
-
-- 📫 How to reach me **harshithdr10@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/harshith-deshalli-ravi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshith-deshalli-ravi" height="30" width="40" /></a>
-<a href="https://twitter.com/harshithdr5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshithdr5" height="30" width="40" /></a>
+<p align="center">
+I work at the intersection of <b>robotics, control, and artificial intelligence</b>, building intelligent systems that can
+<b>perceive, plan, and interact with the physical world</b>.  
+My current focus is on <b>robot learning, teleoperation, simulation-to-real transfer, and multi-modal robotic control</b>.
 </p>
 
-h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img align="right" alt="robotics-ai" width="420"
+src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshithdr&show_icons=true&locale=en&layout=compact" alt="harshithdr" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=harshithdr&label=Profile%20views&color=0e75b6&style=flat" alt="harshithdr" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshithdr&show_icons=true&locale=en" alt="harshithdr" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshithdr&" alt="harshithdr" /></p>
+### 🔬 About Me
+- 🎓 **M.S. in Data Science** @ Illinois Institute of Technology (Robotics & AI focus)
+- 🤖 **Robotics Researcher** working on haptic teleoperation, exoskeletons, and sim-to-real pipelines
+- 🧠 Interests: **Embodied AI, Robot Learning, SLAM, Motion Planning, Reinforcement Learning**
+- 🧪 Experienced with **ROS2, Isaac Sim, Digital Twins, Edge AI, and real-world robot deployment**
+- 🌍 Actively follow and experiment with cutting-edge robotics & AI research
 
-<img src="github-user-contribution (1).svg" width="1000" />
+🔗 Learn more about me: **[https://harshithdeshalliravi.us](https://harshithdeshalliravi.us)**  
+📂 All projects: **[https://github.com/HarshithDR](https://github.com/HarshithDR)**
+
+---
+
+### 🛠️ Research & Technical Focus
+- **Robotics Systems**: Kinematics, Dynamics, Control (PID, MPC), Motion Planning (RRT*)
+- **Robot Learning**: Reinforcement Learning (DQN, PPO), Imitation Learning, Foundation Models
+- **Perception**: Computer Vision, 3D Point Clouds, LiDAR, Sensor Fusion, SLAM
+- **Simulation & Digital Twins**: NVIDIA Isaac Sim, Gazebo, Sim-to-Real Transfer
+- **Edge AI**: Jetson, Raspberry Pi, model optimization for real-time inference
+- **Human–Robot Interaction**: Haptics, teleoperation, wearable robotics
+
+---
+
+### 🚀 Selected Projects
+- 🦾 **5-DOF Wearable Exoskeleton for Haptic Teleoperation**
+- 🧭 **3D LiDAR-Based SLAM & Autonomous Navigation (ROS2 + Isaac Sim)**
+- 🤖 **Multi-Modal AI Manipulator using NVIDIA Groot N1.5**
+- 🧠 **Emotion-Aware Social Robots for Autism Therapy**
+- ⚡ **Edge AI Vision Systems on Jetson & Raspberry Pi**
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/harshith-deshalli-ravi/" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/harshithdr5" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      height="30" width="40" />
+  </a>
+</p>
+
+📧 Email: **harshithdr10@gmail.com**
+
+---
+
+### 🧰 Languages, Frameworks & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=harshithdr&show_icons=true&layout=compact"/>
+</p>
+
+<p>&nbsp;
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=harshithdr&show_icons=true"/>
+</p>
+
+
+
+<img src="github-user-contribution (1).svg" width="1000"/>
