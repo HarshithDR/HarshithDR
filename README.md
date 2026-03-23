@@ -1,99 +1,100 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Harshith Deshalli Ravi</h1>
+<h3 align="center">
+Robotics AI Researcher | Sim-to-Real Systems | Embodied Intelligence
+</h3>
 
-# Harshith Deshalli Ravi
+<p align="center">
+I work at the intersection of <b>robotics, control, and artificial intelligence</b>, building intelligent systems that can
+<b>perceive, plan, and interact with the physical world</b>.<br/>
+My current focus is on <b>robot learning, teleoperation, simulation-to-real transfer, and multi-modal robotic control</b>.
+</p>
 
-**Robotics AI Researcher · Sim-to-Real Systems · Embodied Intelligence**
+<img align="right" alt="robotics-ai" width="420"
+src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-harshithdeshalliravi.us-0A0A0A?style=flat&logo=safari&logoColor=white)](https://harshithdeshalliravi.us)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-deshalli-ravi/)
-[![Email](https://img.shields.io/badge/Email-harshithdr10@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:harshithdr10@gmail.com)
-
-</div>
-
----
-
-I build intelligent robotic systems that bridge the gap between simulation and the physical world. My work spans **haptic teleoperation**, **autonomous navigation**, and **multi-modal robot learning** — from first principles in hardware to deployment using NVIDIA's latest foundation models.
-
-Currently a **Robotics Researcher at Illinois Institute of Technology**, developing a 5-DOF wearable exoskeleton for real-time haptic teleoperation with sub-100ms force-feedback latency.
-
----
-
-## Featured Projects
-
-### 🦾 5-DOF Wearable Exoskeleton · Haptic Teleoperation
-Real-time body-motion-to-robot-motion mapping with tactile force feedback. Integrated ROS, motor control, and VR hardware inside NVIDIA Isaac Sim for a complete **sim-to-real digital twin** workflow.
-- **40% improvement** in operator control accuracy
-- **< 100 ms** force-feedback latency · **1 mm** positional precision
-- Validated across 20+ simulation and real-world trials
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=harshithdr&label=Profile%20views&color=0e75b6&style=flat" alt="harshithdr" />
+</p>
 
 ---
 
-### 🤖 Multi-Modal AI Manipulator · NVIDIA Groot N1.5
-Fine-tuned NVIDIA's Groot N1.5 foundation model on large-scale synthetic data from a custom Isaac Sim environment. Deployed on **Open Manipulator X** with Jetson Nano for real-time gesture, audio, and perception-driven control.
-- ROS2 sim-to-hardware pipeline with dual cameras + depth sensor
-- Real-time inference, motion planning, and adaptive pick-and-place
+### 🔬 About Me
+- 🎓 **M.S. Data Science (Robotics & AI)** @ Illinois Institute of Technology
+- 🤖 **Robotics Researcher** — haptic teleoperation, exoskeletons & sim-to-real pipelines
+- 🧠 Interests: **Embodied AI, Robot Learning, RL, SLAM, Motion Planning**
+- 🧪 Hands-on with **ROS2, Isaac Sim, Isaac Lab, Digital Twins, Edge AI**
+- 🌍 Open to full-time roles in **Robotics AI & Autonomous Systems**
+
+🔗 Portfolio: **[harshithdeshalliravi.us](https://harshithdeshalliravi.us)**  
+📂 Projects: **[github.com/HarshithDR](https://github.com/HarshithDR)**
 
 ---
 
-### 🗺️ 3D LiDAR SLAM · Autonomous Navigation (ROS2 + Isaac Sim)
-Fully autonomous navigation in NVIDIA Omniverse with accurate localization and smooth trajectory planning.
-- 3D point cloud mapping via **Cartographer + 3D LiDAR**
-- Isaac Sim–ROS2 bridge for seamless sensor data exchange
-- Real-time collision avoidance using **Nav2 + nvblox**
+### 🛠️ Research & Technical Focus
+- **Robotics Systems**: Kinematics, Dynamics, Control (PID, MPC), Motion Planning (RRT*)
+- **Robot Learning**: Reinforcement Learning (DQN, PPO), Imitation Learning, Foundation Models
+- **Perception**: Computer Vision, 3D Point Clouds, LiDAR, Sensor Fusion, SLAM
+- **Simulation & Digital Twins**: NVIDIA Isaac Sim, Isaac Lab, Gazebo, Sim-to-Real Transfer
+- **Edge AI**: Jetson, Raspberry Pi, model optimization for real-time inference
+- **Human–Robot Interaction**: Haptics, teleoperation, wearable robotics, CAD/CAM
 
 ---
 
-### 🧠 Emotion-Aware Social Robots · Autism Therapy (IIT Bengaluru)
-Deployed two ROS2-powered mobile robots for adaptive behavior-based engagement with children.
-- **~95% tracking accuracy** via PID control and path-planning
-- **50% improvement** in learning rate among 30+ children
-- Dual cameras + ultrasonic sensors, Raspberry Pi-based platform
+### 🚀 Selected Projects
+- 🦾 **5-DOF Wearable Exoskeleton** — haptic teleoperation with <100ms force-feedback latency
+- 🤖 **Multi-Modal AI Manipulator** — fine-tuned NVIDIA Groot N1.5 on custom Isaac Sim data
+- 🗺️ **3D LiDAR SLAM & Autonomous Navigation** — ROS2 + Nav2 + nvblox in Isaac Sim
+- 🧠 **Emotion-Aware Social Robots** — autism therapy deployment @ IIT Bengaluru
+- ⚡ **Edge AI Vision Systems** — real-time detection on Jetson & Raspberry Pi
 
 ---
 
-## Technical Stack
+### 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/harshith-deshalli-ravi/" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/harshithdr5" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      height="30" width="40" />
+  </a>
+</p>
 
-| Domain | Tools & Frameworks |
-|---|---|
-| **Robotics** | ROS / ROS2, Nav2, MoveIt, nvblox, SLAM (Cartographer) |
-| **Simulation** | NVIDIA Isaac Sim, Gazebo, Omniverse, Digital Twins |
-| **Robot Learning** | RL (DQN, PPO), Imitation Learning, NVIDIA Groot N1.5 |
-| **Perception** | LiDAR, IMU, Camera, Sensor Fusion, 3D Point Clouds, YOLO |
-| **Hardware** | STM32, Arduino, Raspberry Pi, Jetson Nano, Servo/Motor Control |
-| **CAD / CAM** | SolidWorks, Fusion 360, 3D Printing |
-| **ML / DL** | PyTorch, TensorFlow, JAX, OpenCV |
-| **Systems** | C++, Python, Docker, CI/CD, Linux, Git |
-
----
-
-## Experience
-
-```
-Robotics Researcher           Illinois Institute of Technology, USA     Sep 2024 – Present
-Robotics Research Assistant   Indian Institute of Technology, India      Oct 2022 – Apr 2023
-Edge AI & CV Engineer         DHI Flagship & Innovation Centre, India    Jun 2021 – Nov 2022
-```
+📧 Email: **harshithdr10@gmail.com**
 
 ---
 
-## Education
-
-**M.S. Data Science (Robotics & AI focus)** · Illinois Institute of Technology · 2023–2025
-
-*Relevant coursework: Deep Learning for Robotics · Reinforcement Learning · Robotics Simulation · Motion Planning · Computer Vision · Edge AI · Probabilistic Robots*
+### 🧰 Languages, Frameworks & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
 
 ---
 
-## Achievements
+### 📊 GitHub Stats
+<p>
+  <img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=harshithdr&show_icons=true&layout=compact"/>
+</p>
 
-- 🏆 **Top 5 global** out of 4,500+ participants — TikTok TechJam
-- 🏎️ **Top 5 finish** — Indian National Kart Racing Championship (electric go-kart design & development)
-- 🥇 5+ podium finishes across 10+ national and international hackathons
+<p>&nbsp;
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=harshithdr&show_icons=true"/>
+</p>
 
----
+<br/><br/><br/>
 
-<div align="center">
-
-*Open to full-time roles in Robotics AI, Autonomous Systems, and Embodied Intelligence.*
-
-</div>
+<!-- <img src="github-user-contribution (1).svg" width="1000"/> -->
